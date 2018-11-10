@@ -1,7 +1,5 @@
-# Plugins
-gems:
-- jekyll-sitemap
-safe: false
+gems :- jekyll-sitemap
+safe:false
 
 # Build Settings
 markdown: kramdown
